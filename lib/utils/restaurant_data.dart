@@ -40,10 +40,10 @@ var restaurantDataList = [
     rating: "5.0",
     phone: "+62 812-3754-9476",
     gallery: [
-      "https://media-cdn.tripadvisor.com/media/photo-p/2a/61/9c/e2/caption.jpg",
-      "https://media-cdn.tripadvisor.com/media/photo-p/2a/61/9c/de/caption.jpg",
-      "https://media-cdn.tripadvisor.com/media/photo-w/2a/52/54/f4/caption.jpg",
-      "https://media-cdn.tripadvisor.com/media/photo-w/2a/4b/35/e9/caption.jpg"
+      "https://lh3.googleusercontent.com/p/AF1QipNHaShlqSqh_MiaJxnJz3fqptumuyL3vw2GXE3Y=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNFbMjoQpcaS7xoluunKeu4ve4_Wafr7b4VI7sp=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipM9iF5rvsgnVN8GH3diP2TNoJ6ckY0Zkep3DMS7=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipM3ze8KyWTJw9TOPJlyr0EDWbsL7du45ws9x6bo=s680-w680-h510"
     ],
   ),
   RestaurantData(
@@ -64,10 +64,10 @@ var restaurantDataList = [
     rating: "5.0",
     phone: "+62 818-1812-6888",
     gallery: [
-      "https://media-cdn.tripadvisor.com/media/photo-m/1280/28/9e/c0/28/exterior-drone.jpg",
-      "https://media-cdn.tripadvisor.com/media/photo-m/1280/29/9a/70/73/restaurant.jpg",
-      "https://media-cdn.tripadvisor.com/media/photo-m/1280/26/b7/e9/12/sharing-is-caring.jpg",
-      "https://media-cdn.tripadvisor.com/media/photo-m/1280/26/b7/e9/12/sharing-is-caring.jpg"
+      "https://lh3.googleusercontent.com/p/AF1QipP1tqTMnSgCy9_Kti29sgd0w9kwrpqKCk3aR3xO=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNEnUbfpCUaBfeMtUUhSBk0HWvvlAb3jq168PP9=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMxTpzMAAUUu3EuH91GZaNNSa1TOspQIcE0sddN=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMz4GpuAGfqPewpedDlo5JfV-AKtf75x_OIUWio=s680-w680-h510"
     ],
   ),
   RestaurantData(
@@ -83,10 +83,10 @@ var restaurantDataList = [
     rating: "5.0",
     phone: "+62 361 982367",
     gallery: [
-      "https://media-cdn.tripadvisor.com/media/photo-m/1280/25/e2/f2/0c/kaukau-restaurant.jpg",
-      "https://media-cdn.tripadvisor.com/media/photo-o/28/ca/49/e2/breakfast-time.jpg",
-      "https://media-cdn.tripadvisor.com/media/photo-o/28/ca/49/68/dining-table.jpg",
-      "https://media-cdn.tripadvisor.com/media/photo-o/28/e3/ea/88/food.jpg"
+      "https://lh3.googleusercontent.com/p/AF1QipM3O_I-rTKz-yrfRe3kej4fjvSMjSe1ZAfgcquR=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOue2ZTOSCz1rQqM_kYQifUT7cNsqiBLaNlyKLg=s680-w680-h510",
+      "https://lh5.googleusercontent.com/p/AF1QipNXKxb087K4c33DHBvRDrJ2PNNNU8sj9MePPBxE=w141-h235-n-k-no-nu",
+      "https://lh3.googleusercontent.com/p/AF1QipPMmxT_JXgKiNNcSt4ZrmheSf6r5BMuCl_9Oxck=s680-w680-h510"
     ],
   ),
   RestaurantData(
@@ -101,10 +101,10 @@ var restaurantDataList = [
     rating: "5.0",
     phone: "+62 361 3000106",
     gallery: [
-      "https://media-cdn.tripadvisor.com/media/photo-m/1280/25/11/3f/1b/pork-belly.jpg",
-      "https://media-cdn.tripadvisor.com/media/photo-m/1280/25/11/3e/73/dry-aged-black-angus.jpg",
-      "https://media-cdn.tripadvisor.com/media/photo-w/1c/80/4e/db/photo0jpg.jpg",
-      "https://media-cdn.tripadvisor.com/media/photo-w/1c/75/d4/18/photo0jpg.jpg",
+      "https://lh5.googleusercontent.com/p/AF1QipMqq-hpINNzqkN4XPLC_BpV2f3d-DuIJ7BvK7Ud=w243-h174-n-k-no-nu",
+      "https://lh3.googleusercontent.com/p/AF1QipPiMyOmKmtZ5e4ngd3niX-uRwgrxbP0cbwddTR2=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipODxc6o7V_gfcBTWbxAL9w5SUBkkNUR0mbJAG3j=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipO8K0SvmC3rR2nDJELbmUA7nu9gnQ6xUnUgbc2P=s680-w680-h510",
     ],
   ),
   RestaurantData(
@@ -119,10 +119,10 @@ var restaurantDataList = [
     rating: "5.0",
     phone: "+62 361 8446327",
     gallery: [
-      "https://media-cdn.tripadvisor.com/media/photo-w/14/77/d1/a9/sunset-time.jpg",
-      "https://media-cdn.tripadvisor.com/media/photo-w/14/77/d1/6b/poolside.jpg",
-      "https://media-cdn.tripadvisor.com/media/photo-w/18/30/46/ce/finns-vip-beach-club.jpg",
-      "https://media-cdn.tripadvisor.com/media/photo-o/21/7a/d8/1c/celebrate-at-finns-celebrate.jpg",
+      "https://lh3.googleusercontent.com/p/AF1QipPy0prBkQxOT6z4XRtQZImU5S7RM01lvNCvNY6c=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNSEUugRj6E_Frp-44pppGKzxyCzY-dXJmcchmM=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMMFZi2K7jDvUuTc2fMeZDnMyUzoCRRjpweidc7=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNaRLvcAqIbSaaSNBLL7uTVj7mtGzAIxubTMbyC=s680-w680-h510",
     ],
   ),
 ];
